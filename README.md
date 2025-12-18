@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm **Audrey**, a passionate developer.
 
 ## 📈 GitHub Stats
 
-![Audrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=audreyss&show_icons=true&theme=default)
+![Audrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=audreysgl&show_icons=true&theme=default)
 
 ## 🌐 Connect with Me
 
