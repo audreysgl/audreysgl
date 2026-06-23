@@ -4,8 +4,8 @@ Welcome to my GitHub profile! I'm **Audrey**, a passionate developer.
 
 ## 🚀 About Me
 
-- 🔍 I'm looking for a job as a fullstack developer or software engineer junior.
-- 🌱 I'm currently working on Bookclub Buddy.
+- 🌱 I'm currently working as a freelance fullstack developer.
+- 🔍 I'm open to look at new opportunity as a fullstack developer or software engineer.
 - 💻 I love learning new technologies and frameworks to expand my skill set.
 
 ## 🛠️ Technologies & Tools
